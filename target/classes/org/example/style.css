@@ -1,0 +1,48 @@
+
+.text-field {
+    -fx-prompt-text-fill: gray;
+}
+
+
+.label {
+    -fx-font-size: 14pt;
+    -fx-text-fill: rgb(51, 51, 51);
+}
+
+
+.button {
+    -fx-font-size: 12pt;
+    -fx-background-color: rgb(76, 175, 80);
+    -fx-text-fill: white;
+    -fx-padding: 5px 10px;
+}
+
+.button:hover {
+    -fx-background-color: rgb(69, 160, 73);
+}
+
+
+.table-view {
+    -fx-background-color: rgb(242, 242, 242);
+}
+
+.table-column.label {
+    -fx-text-size: 10pt;
+    -fx-pref-width: -fx-text-width;
+}
+
+
+.table-column {
+    -fx-alignment: CENTER;
+    -fx-font-size: 12pt;
+    -fx-text-fill: rgb(51, 51, 51);
+}
+
+
+.split-pane-divider {
+    -fx-background-color: rgb(204, 204, 204);
+}
+
+.split-pane {
+    -fx-padding: 10px;
+}
