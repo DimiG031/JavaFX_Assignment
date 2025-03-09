@@ -36,6 +36,9 @@ This is a **JavaFX application** designed for registering the sale of internet p
 - **Database Integration**: Connect to a database for persistent data storage.
 - **Enhanced UI**: Improve the user interface for better user experience.
 
+---
+✨ **Author:** [Goran Dimitrijevic Dimi](https://dimig031.github.io/)
+
 ## License
 This project is open-source under the [MIT License](LICENSE).
 
